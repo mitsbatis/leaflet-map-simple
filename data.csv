@@ -1,5 +1,5 @@
-Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-mageirio attalos,"Αδριανού 9, Αθήνα 105 55",37.9764566,23.722086,"Adrianou 9, Athina 105 55, Greece",Match,Google
+Title,Address,Latitude,Longitude,Found Address,Match Quality,Source,URL
+mageirio attalos,"Αδριανού 9, Αθήνα 105 55",37.9764566,23.722086,"Adrianou 9, Athina 105 55, Greece",Match,Google,https://www.google.com/maps/uv?hl=el&pb=!1s0x14a1bd17e5cf66c3:0x61e3c9923073d74e!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps://lh5.googleusercontent.com/p/AF1QipNe4Pfc4aBjCYGdAEP9XUg2I52x1hI6yfeDycjf%3Dw260-h175-n-k-no!5zz4TOsc6yzrXPgc69zrXPgiDOuM63z4POtc65zr8gLSDOkc69zrHOts6uz4TOt8-DzrcgR29vZ2xl&imagekey=!1e10!2sAF1QipNe4Pfc4aBjCYGdAEP9XUg2I52x1hI6yfeDycjf#
 geyomai kai mageyomai ,"Νηλέως 11, Αθήνα 118 51",37.9748013,23.7184896,"Nileos 11, Athina 118 51, Greece",Match,Google
 taverna ta eykalypta,"Ραγκαβά 1, Αθήνα 105 58",37.97087,23.7297876,"Ragkava 1, Athina 105 58, Greece",Match,Google
 taverna diogenhs,"Ραγκαβά 1, Αθήνα 105 58",37.97087,23.7297876,"Ragkava 1, Athina 105 58, Greece",Match,Google
